@@ -1,0 +1,15 @@
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\bin\Debug\netcoreapp2.1\TechSummitEchoBot.bot
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\bin\Debug\netcoreapp2.1\TechSummitEchoBot.deps.json
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\bin\Debug\netcoreapp2.1\TechSummitEchoBot.runtimeconfig.json
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\bin\Debug\netcoreapp2.1\TechSummitEchoBot.runtimeconfig.dev.json
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\bin\Debug\netcoreapp2.1\TechSummitEchoBot.dll
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\bin\Debug\netcoreapp2.1\TechSummitEchoBot.pdb
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.csprojAssemblyReference.cache
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.RazorAssemblyInfo.cache
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.RazorAssemblyInfo.cs
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.AssemblyInfoInputs.cache
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.AssemblyInfo.cs
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.RazorTargetAssemblyInfo.cache
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.dll
+C:\Users\ibrahim.onat\source\repos\TechSummitEchoBot\TechSummitEchoBot\obj\Debug\netcoreapp2.1\TechSummitEchoBot.pdb
